@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> House price prediction
 
 
 ## Table of Contents
